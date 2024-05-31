@@ -10,13 +10,18 @@ awareness of and work with legal texts.
 The vast amount of legal documents can be overwhelming for anyone who needs to 
 understand their content. This Project proposes a system that combines following
 techniques:
+<br>
  Legal Document Summarization: Generate concise summaries capturing the
 essential legal points.
+<br>
  Question Answering: Answer user queries directly within the context of the 
 document.
+<br>
  Ensure that simplified legal texts are easily understandable for a wide range of 
 users, including legal professionals, laypersons, and individuals with varying levels
 of literacy.
+<br>
  Develop user-friendly interfaces that facilitate intuitive interaction.
+<br>
  Provide tools and resources that assist researchers in navigating and synthesizing
 legal information effectively, enhancing productivity in legal research tasks
